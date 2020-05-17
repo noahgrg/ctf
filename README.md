@@ -1,2 +1,2 @@
-# ctf
-all things CTF
+# CTF Resources
+- my collection of all things CTF
